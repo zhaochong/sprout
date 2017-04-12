@@ -1,0 +1,7 @@
+{
+    "require": {
+        "workerman/phpsocket.io-emitter": "1.0.1",
+        "workerman/phpsocket.io": "1.1.4"
+    }
+
+}
